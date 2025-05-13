@@ -14,7 +14,7 @@ namespace ConsoleApp1
         public void printGit(){
             Console.WriteLine("Hello GIT");
         }
-public void IbrahimprintiGit(){
+public void IbrahimadleprintiGit(){
             Console.WriteLine("Hello GIT from ibrahim adel");
         }
 
